@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25629'
     url: http://www.gutenberg.org/2009/agents/25629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34692#Mademoiselle-de-la-Seigliere-Volume-I--of-2-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-12-19'
 gutenberg_type: Text
